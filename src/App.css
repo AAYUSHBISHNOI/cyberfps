@@ -94,8 +94,7 @@
   background: var(--Teal, #1EADB6);
 }
 .bttn_get:hover{
-  color: white !important;
-  background: transparent;
+  box-shadow: 0 0 15px #1EADB6;
 }
 .bttn_learn{
   padding: 12px 25px;
@@ -105,8 +104,7 @@
   transition: all 300ms;
 }
 .bttn_learn:hover{
-  background: var(--Teal, #1EADB6);
-  color: black !important;
+  box-shadow: 0 0 15px #1EADB6;
 }
 .txt_clr{
   color: #1ead86;
